@@ -1,0 +1,42 @@
+                     TASK 1
+1. WHAT ARE THE DIFFERENT TYPES OF TESTING?
+Types of testing contains two categories
+Functional
+Non functional
+ POV : We have sub categories
+FUNCTIONAL:
+Implementation meets the requirements or not
+ Unit testing:
+Unit testing is the first layer of the entire testing process and it is  also known as component level testing . And it is mostly done by developers usually unit testing will work only in particular unit. The main work of unit testing in software development is to identify the bug early, To verify the section of code accurately,and as a programmer we have to understand the code base. we are using tools for unit testing like[DB unit,HTML unit]
+Integration testing:
+ Integration testing is a second layer of the testing process it'll reduces bugs and errors or any issues in testing mostly this testing will integrated with two or more component .
+Regression testing:
+It is one of the important testing for testers.And we have to run all the test cases in this testing ,Firstly we'll run one by one but after we'll run all the entire cases eg:more than 1000 cases it will go for automation testing.
+Smoke testing:
+In smoke testing we usually called as high level testing in software development because we'll work only less number of test cases  [for eg: if we have more number of test cases in regression testing just transfer some important test cases to smoke testing and we'll work with it bcz it work quicker then regression testing.]  
+Sanity testing:
+Sanity testing is testing on the impact component  
+
+2. WHAT ARE THE DIFFERENT STLC PHASES?
+
+  We have different types of STLC phases they are
+ Requirement analysis
+ Test plan
+ Test design
+ Environment setup
+ Test execution
+ Test closure
+
+3. As a manual tester,what qualities do you possess? provide example to illustrate your points.
+      As a manual tester needs to identify the small defects .Manual tester should possess strong analytical and critical thinking they need to analyze the system behaviour , think logically ,and identify the root cause of issues and also effective communication is crucial for manual tester to convey information clearly and collaborate effectively with the development team , stake holders , and other testers. Effectively time management and organizational skills are essential for manual testers to handle multiple tasks, prioritize their work , and meet deadlines.   
+
+
+4. what is the different between agile and waterfall methodoligies in SDLC?
+  Waterfall and agile is a methodology the company will follow either watherfall or agile . Waterfall is the traditional methodology and agile is kinda moderate one .Both agile and waterfall has same kind of phases 
+  Require
+  Analysis 
+  Design
+  Implementation
+  Testing
+if there is any problem will check the entire components.In waterfall methodology it will take 1.2 year to complete
+In Agile it will take short period of time only within 2 or 3 month.In agile method whether some stage is wrong we will not to check to entire components.
