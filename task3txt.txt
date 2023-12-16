@@ -1,0 +1,48 @@
+TASK 3
+
+
+1.List down all the models of SDLC?
+WATERFALL MODEL:
+  The waterfall model was the first process model to be introduced .It is also referred to as a linear.Sequential life cycle model.It is very simple to understand and use. There is no over lapping in the phases
+SPIRAL MODEL:
+  The spiral model combines the idea of iterative development with the systematic,controlled aspects of the waterfall model.
+V-MODEL:
+  V model in software testing is where the test execution takes place in a hierarchical manner. The executive process makes v shape. It is also called a verification and validation model.
+PROTOTYPE MODEL:
+  Prototype model is a working model of software with some limited functionality .The prototype does not always holds the exact logic used in the actual software applications and is an extra effect to be considered under effort estimation.
+CUSTOMIZED/DERVIED MODEL:
+  In SDLC the concepts of a derived or customized model can refer to the use of pre existing models or frameworks that are adopted or tailored to suits the specific needs of a software development project
+HYBRID MODEL: 
+  The hybrid model is combination of two or more primary models and modified them as per the business requirement. The model is dependent on other SDLC models such as spiral,v and v,prototype module the hybrid model is used for small, medium and large projects. It focuses on the risk management of the product.
+AGILE MODLE:
+  Agile SDLC model is a combination of iterative and incremental process models with focus on process of adaptability and customer satisifaction by rapidly delivery of working software product. Agile methodology breaks the product into small incremental builds. The builds are provided iterations. Each iterations typically lasts from about one to three weeks .
+   
+
+
+2.What is STLC? also explain all stages of STLC.
+  STLC means software testing lifecycle is a sequence of specific actions performed during the testing process to ensure that the software quality objectives are met .The STLC includes both verification and validation 
+We have 6 core principles
+   1.Requirement analysis
+   2.planning
+   3.Design
+   4.Development
+   5. Testing
+   6. Deployment 
+
+3.As a test lead for a web-based application, your manager has asked you to identify and explain the different risk factors that should be included in the test plan . Can you provide a list of the potential risks and their explanations that you would include in the test plan?
+   The different risk factor in test plan 
+   * Lack of personnel resources when testind is to begin
+   *Lack of availability of required hardware,software,data or tools
+   *Late delivery of the software,hardware or tools
+   *Delays in training or the applications or tools 
+   *Changes to the original requirements or designs 
+   *Complexities involved in testing the applications
+
+4.Your team leader has asked you to explain the dsifference between quality assurance and quality control responsibilities . While QC activities aim to identify defects in actual products, your TL is interested in processes that can prevent defects.How would you explain the distinction between QA and QC respondsibilities to your boss?
+QUALITY ASSURANCE:
+  Quality assurance is the guidelines, policies and procedure to make a high quality product and avoid defects
+QUALITY CONTROL:
+In contract quality contro is the product's actual review during production to ensure it is created to the highest standards.
+
+5.Difference between manual and automation testing?
+   There is a key difference between manual testing and automation testing a human performs the tests step by step, without test scripts. In automated testing , tests are executed automatically via test automation frameworks, along with other tools and software.  
